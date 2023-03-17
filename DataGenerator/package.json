@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@asyncapi/parser": "^1.18.1",
+    "fs": "^0.0.1-security",
+    "json-schema-faker": "^0.5.0-rcv.46",
+    "solclientjs": "^10.12.0"
+  }
+}

@@ -1,5 +1,4 @@
 # logistics-and-distribution-event-api
- logistics-and-distribution-event-api
 
 This project is the manufacturing leg of a supply chain and consists of three elements;
 
@@ -40,11 +39,9 @@ DataStream --> Subscribers
 1. Install the Spring Cloud Stream Microservice
 
 ```bash
-git clone  https://github.com/abes2345/design-and-engineering-event-api.git
-cd  design-and-engineering-event-api/designandengineering
+git clone  https://github.com/abes2345/logistics-and-distribution-event-api.git
+cd  logistics-and-distribution-event-api/logisticsanddistribution
 mvn clean  package
-cd  target
-java -jar  DesignAndEngineering-0.1.0.jar
 ```
 
 2. Install the Data Generator
@@ -63,7 +60,7 @@ npm install  json-schema-faker
 
 ```bash
 cd  target
-java -jar  DesignAndEngineering-0.1.0.jar
+java -jar  LogisticsAndDistribution-0.1.0.jar
 ```
 
 2. Run the Data Generator
