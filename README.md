@@ -44,7 +44,7 @@ cd  logistics-and-distribution-event-api/logisticsanddistribution
 mvn clean  package
 ```
 
-2. Install the Data Generator
+2. Install the Data Generator dependencies
 
 ```bash
 cd  DataGenerator
